@@ -1,4 +1,4 @@
-# Whether-the-Graph-is-2-Colorable-
+# Whether-the-Graph-is-2-Colorable
 This program will check whether a graph is 2-colorable(Bipartite) or not by using Depth First Search.
 Algorithm to check bipartiteness of a graph is as follows:
 1. Declare an array to store color 0 or 1 for all the nodes that denote different color.
